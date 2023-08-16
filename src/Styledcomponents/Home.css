@@ -1,0 +1,12 @@
+.left{
+    width: 25%;
+    border: 1px solid black;
+}
+.main{
+    width: 40%;
+    border: 1px solid black;
+}
+.right{
+    width: 35%;
+    border: 1px solid black;
+}
